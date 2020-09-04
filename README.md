@@ -11,11 +11,11 @@ Mega list compiled from a variety to sources. Also available here: http://www.ma
 - [Work-life](#work-life)
 
 ## About Manager
-* Are there any obstacles I can remove for you?
-* As your manager, what would you like me to stop, start, or continue doing?
-* At what point in the past week were you most frustrated with or discouraged by your work? What can I do to help you manage that?
-* Do you feel you’re getting enough feedback? Why/why not?
-* Do you have any feedback for me?
+* Are there any obstacles I can remove for you? // 目前存在我可以帮助你移除的障碍吗？
+* As your manager, what would you like me to stop, start, or continue doing? // 做为你的上级，你希望停止、开始或继续做什么事？
+* At what point in the past week were you most frustrated with or discouraged by your work? What can I do to help you manage that? // 过去几周的工作中，什么让你感觉到最灰心沮丧？我能为你做些什么？
+* Do you feel you’re getting enough feedback? Why/why not? // 你觉得你能得到足够的反馈吗？为什么？
+* Do you have any feedback for me? // 你有什么对我的反馈吗？
 * Do you think that you receive enough feedback? Is feedback helpful for your personal development? What can I do to help you get the feedback you want?
 * How can I better support you?
 * How can I make your days more fulfilling?
